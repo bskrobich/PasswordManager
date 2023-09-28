@@ -1,5 +1,5 @@
 # Password Manager (C++)
-This project is a simple password manager designed to securely store and manage passwords. The password manager allows users to store passwords in an encrypted manner and provides access to them through a single master password.
+**My first-year semester project**. This project is a simple password manager designed to securely store and manage passwords. The password manager allows users to store passwords in an encrypted manner and provides access to them through a single master password.
 
 ## Features
 1. **Password Storage**: The manager allows users to securely store their passwords. Passwords are encrypted and protected by a master password.
